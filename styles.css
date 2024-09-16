@@ -309,7 +309,6 @@ nav {
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
   align-items: center;
-  /* border-radius: 20px; */
 }
 
 .craft__container .section__subheader {
@@ -741,3 +740,5 @@ nav {
     flex-direction: column;
   }
 }
+
+

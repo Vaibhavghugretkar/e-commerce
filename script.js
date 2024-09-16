@@ -40,6 +40,14 @@ ScrollReveal().reveal(".header__container a", {
   delay: 1500,
 });
 
+// Add item
+
+
+toastr.options = {
+    "closeButton": true,
+    "positionClass": "toast-top-right",
+    "timeOut": "3000"
+  };
 // const swiper = new Swiper(".swiper", {
 //   loop: true,
 //   pagination: {
